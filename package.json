@@ -1,0 +1,13 @@
+{
+  "name": "be-protected-form",
+  "version": "1.0.0",
+  "description": "Multi-step life insurance quote form",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --listen 3000"
+  },
+  "keywords": ["form", "insurance", "quote"],
+  "author": "",
+  "license": "ISC"
+}
